@@ -1,4 +1,4 @@
-%facts
+%Facts
 constelation(GEO)
 constelation(MEO)
 frequency_band(GEO, C)
